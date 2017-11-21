@@ -1,4 +1,4 @@
-·×Ãşı+co.accenture.alexa.sonar 20
+ÔÛã€ş+co.accenture.alexa.sonar 20
 cs*
 cs-sonar-way-06278	Sonar waycs û­ãû+26
 java.

@@ -1,2 +1,2 @@
 
-SonarAlexa :J1.0-SNAPSHOTRco.accenture.alexa.sonar
+SonarAlexa :J0.0.1-SNAPSHOTRco.accenture.alexa.sonar
