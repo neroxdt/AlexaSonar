@@ -1,0 +1,176 @@
+Environment variables:
+  - =::=::\
+  - =A:=A:\
+  - =D:=D:\
+  - =E:=E:\
+  - ACLOCAL_PATH=C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\share\aclocal;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\share\aclocal
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\diego.tapia\AppData\Roaming
+  - COMMONPROGRAMFILES=C:\Program Files\Common Files
+  - COMPUTERNAME=CPX-YBM5PT4U0NI
+  - COMSPEC=C:\windows\system32\cmd.exe
+  - CONFIG_SITE=C:/Users/diego.tapia/AppData/Local/Programs/Git/mingw64/etc/config.site
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DISPLAY=needs-to-be-defined
+  - EXEPATH=C:\Users\diego.tapia\AppData\Local\Programs\Git
+  - FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+  - FPS_BROWSER_USER_PROFILE_STRING=Default
+  - HOME=C:\Users\diego.tapia
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\diego.tapia
+  - HOSTNAME=CPX-YBM5PT4U0NI
+  - INFOPATH=C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\local\info;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\share\info;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\info;C:\Users\diego.tapia\AppData\Local\Programs\Git\share\info
+  - JAVA_HOME=C:/Program Files/Java/jdk1.8.0_152
+  - LANG=en_US.UTF-8
+  - LOCALAPPDATA=C:\Users\diego.tapia\AppData\Local
+  - LOGONSERVER=\\AMRDC3205
+  - MANPATH=C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\share\man;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\local\man;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\share\man;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\man;C:\Users\diego.tapia\AppData\Local\Programs\Git\share\man
+  - MAVEN_CMD_LINE_ARGS= clean sonar:sonar -X -Dsonar.host.url=http://localhost:9000/ -Dsonar.verbose=true -Dsonar.projectName=SonarAlexa -Dsonar.projectKey=co.accenture.alexa.sonar
+  - MAVEN_PROJECTBASEDIR=C:/WorkSpaceJenkins/AlexaSonar/app-java
+  - MINGW_CHOST=x86_64-w64-mingw32
+  - MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+  - MINGW_PREFIX=C:/Users/diego.tapia/AppData/Local/Programs/Git/mingw64
+  - MSYSTEM=MINGW64
+  - MSYSTEM_CARCH=x86_64
+  - MSYSTEM_CHOST=x86_64-w64-mingw32
+  - MSYSTEM_PREFIX=C:/Users/diego.tapia/AppData/Local/Programs/Git/mingw64
+  - NUMBER_OF_PROCESSORS=4
+  - OLDPWD=C:/WorkSpaceJenkins/AlexaSonar/app-java
+  - ORIGINAL_PATH=C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\PuTTY;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Program Files (x86)\GitExtensions;C:\Users\diego.tapia\AppData\Local\Microsoft\WindowsApps;C:\Users\diego.tapia\AppData\Local\Programs\Git\cmd
+  - ORIGINAL_TEMP=C:/Users/DIEGO~1.TAP/AppData/Local/Temp
+  - ORIGINAL_TMP=C:/Users/DIEGO~1.TAP/AppData/Local/Temp
+  - OS=Windows_NT
+  - OneDrive=C:\Users\diego.tapia\OneDrive - Accenture
+  - PATH=C:\Users\diego.tapia\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\local\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\PuTTY;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Program Files (x86)\GitExtensions;C:\Users\diego.tapia\AppData\Local\Microsoft\WindowsApps;C:\Users\diego.tapia\AppData\Local\Programs\Git\cmd;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin\core_perl
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PKG_CONFIG_PATH=C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\lib\pkgconfig;C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\share\pkgconfig
+  - PLINK_PROTOCOL=ssh
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=AMD64 Family 21 Model 48 Stepping 1, AuthenticAMD
+  - PROCESSOR_LEVEL=21
+  - PROCESSOR_REVISION=3001
+  - PROGRAMFILES=C:\Program Files
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - PWD=C:/WorkSpaceJenkins/AlexaSonar/app-java
+  - ProgramData=C:\ProgramData
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SHELL=C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin\bash.exe
+  - SHLVL=1
+  - SSH_ASKPASS=C:/Users/diego.tapia/AppData/Local/Programs/Git/mingw64/libexec/git-core/git-gui--askpass
+  - SYSTEMDRIVE=C:
+  - SYSTEMROOT=C:\windows
+  - TEMP=C:\Users\DIEGO~1.TAP\AppData\Local\Temp
+  - TERM=xterm
+  - TMP=C:\Users\DIEGO~1.TAP\AppData\Local\Temp
+  - TMPDIR=C:\Users\DIEGO~1.TAP\AppData\Local\Temp
+  - UATDATA=C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+  - USERDNSDOMAIN=DIR.SVC.ACCENTURE.COM
+  - USERDOMAIN=DIR
+  - USERDOMAIN_ROAMINGPROFILE=DIR
+  - USERNAME=diego.tapia
+  - USERPROFILE=C:\Users\diego.tapia
+  - WINDIR=C:\windows
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - classworlds.conf=C:/maven/bin/m2.conf
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - guice.disable.misplaced.annotation.check=true
+  - jansi.passthrough=true
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:/maven/boot/plexus-classworlds-2.5.2.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_152\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files\Java\jdk1.8.0_152\jre\lib\ext;C:\windows\Sun\Java\lib\ext
+  - java.home=C:\Program Files\Java\jdk1.8.0_152\jre
+  - java.io.tmpdir=C:\Users\DIEGO~1.TAP\AppData\Local\Temp\
+  - java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\diego.tapia\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\local\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\mingw64\bin;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin;C:\Users\diego.tapia\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\PuTTY;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Program Files (x86)\GitExtensions;C:\Users\diego.tapia\AppData\Local\Microsoft\WindowsApps;C:\Users\diego.tapia\AppData\Local\Programs\Git\cmd;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\diego.tapia\AppData\Local\Programs\Git\usr\bin\core_perl;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_152-b16
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_152
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.152-b16
+  - library.jansi.path=C:/maven/lib/jansi-native
+  - line.separator=
+
+  - maven.conf=C:/maven/conf
+  - maven.home=C:\maven
+  - maven.multiModuleProjectDirectory=C:/WorkSpaceJenkins/AlexaSonar/app-java
+  - org.slf4j.simpleLogger.defaultLogLevel=debug
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes
+  - sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_152\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.codehaus.plexus.classworlds.launcher.Launcher clean sonar:sonar -X -Dsonar.host.url=http://localhost:9000/ -Dsonar.verbose=true -Dsonar.projectName=SonarAlexa -Dsonar.projectKey=co.accenture.alexa.sonar
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - user.country=US
+  - user.dir=C:\WorkSpaceJenkins\AlexaSonar\app-java
+  - user.home=C:\Users\diego.tapia
+  - user.language=en
+  - user.name=diego.tapia
+  - user.script=
+  - user.timezone=America/Bogota
+  - user.variant=
+SonarQube plugins:
+  - C# 5.0 (csharp)
+  - Java 3.13.1 (java)
+  - SVN 1.3 (scmsvn)
+  - Git 1.2 (scmgit)
+  - JavaScript 2.11 (javascript)
+Global properties:
+  - sonar.core.id=20171121123331
+  - sonar.core.startTime=2017-11-21T12:33:31-0500
+  - sonar.core.version=5.6.7
+  - sonar.permission.template.default=default_template
+  - sonar.qualitygate=1
+Settings for module: co.accenture.alexa.sonar
+  - sonar.groovy.binaries=target/classes
+  - sonar.host.url=http://localhost:9000/
+  - sonar.jacoco.itReportPath=C:\WorkSpaceJenkins\AlexaSonar\app-java/../target/jacoco-it.exec
+  - sonar.java.source=1.7
+  - sonar.java.target=1.7
+  - sonar.java.test.libraries=C:\Users\diego.tapia\.m2\repository\junit\junit\4.12\junit-4.12.jar,C:\Users\diego.tapia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  - sonar.links.ci=
+  - sonar.links.homepage=
+  - sonar.links.issue=
+  - sonar.links.scm=
+  - sonar.links.scm_dev=
+  - sonar.maven.projectDependencies=[{"k":"junit:junit","v":"4.12","s":"test","d":[{"k":"org.hamcrest:hamcrest-core","v":"1.3","s":"test","d":[]}]}]
+  - sonar.moduleKey=org.sonarqube:app-java
+  - sonar.projectBaseDir=C:\WorkSpaceJenkins\AlexaSonar\app-java
+  - sonar.projectBuildDir=C:\WorkSpaceJenkins\AlexaSonar\app-java\target
+  - sonar.projectKey=co.accenture.alexa.sonar
+  - sonar.projectName=SonarAlexa
+  - sonar.projectVersion=1.0-SNAPSHOT
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=C:\WorkSpaceJenkins\AlexaSonar\app-java\pom.xml,C:\WorkSpaceJenkins\AlexaSonar\app-java\src\main\java
+  - sonar.tests=C:\WorkSpaceJenkins\AlexaSonar\app-java\src\test\java
+  - sonar.verbose=true
+  - sonar.working.directory=C:\WorkSpaceJenkins\AlexaSonar\app-java\target\sonar

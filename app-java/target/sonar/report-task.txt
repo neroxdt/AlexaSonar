@@ -1,0 +1,5 @@
+projectKey=co.accenture.alexa.sonar
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/co.accenture.alexa.sonar
+ceTaskId=AV_f0RgDKb_nj29Siawj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV_f0RgDKb_nj29Siawj
